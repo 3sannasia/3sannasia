@@ -7,7 +7,6 @@
 - 💬 Ask me about ...
     - New ideas!
     - I'm always trying to think of cool new projects using trending new tech
-- 📫 How to reach me: ...
 <div align="center">
 
 
