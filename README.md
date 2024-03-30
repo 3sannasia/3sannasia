@@ -8,7 +8,7 @@
     - My new ideas!
     - I'm always trying to do projects that I myself can use
     
-<div align="left">
+<div align="center">
 
 [![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=3sannasia&show_icons=true&theme=algolia&rank_icon=github&hide=issues)](https://github.com/3sannasia/github-readme-stats)
 
