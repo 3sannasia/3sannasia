@@ -1,4 +1,4 @@
-### Hi! I'm Akash and I'm always finding ways to work with new tech 💻
+### Hi! I'm Akash and I'm always finding ways to work with new tech 🕹️
 #### 🔭 I’m currently working on ...
 - Spatial Computing Game for the Vision Pro
 - Soulslike 2.5D Unreal Engine 5 Game    
