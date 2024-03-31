@@ -12,8 +12,6 @@
 
 
 
-<!-- ![Contribution Snake Light](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-light.svg#gh-light-mode-only)
-![Contribution Snake Dark](https://raw.githubusercontent.com/Kaweees/Kaweees/output/github-snake-dark.svg#gh-dark-mode-only) -->
 <!--
 **3sannasia/3sannasia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
