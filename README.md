@@ -13,11 +13,11 @@ I'm a junior at the University of Urbana-Champaign studying Computer Science and
 
 
 <div style="display: flex; flex-wrap: wrap;">
-  <a href="https://github.com/3sannasia" alt="Akash's GitHub Stats" style="margin: 5px;">
+  <a href="https://github.com/3sannasia" alt="Akash's GitHub Stats" style="margin: 6px;">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=3sannasia&show_icons=true&theme=algolia&rank_icon=github&hide=issues&card_width=300)](https://github.com/3sannasia/github-readme-stats" />
   </a>
-  <a href="https://github.com/3sannasia" alt="Akash's GitHub Stats" style="margin: 5px;">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3sannasia&hide=cmake,css,html&langs_count=6&layout=donut&exclude_repo=Data-Science-Compensation-Classifier&theme=algolia&card_width=300" />
+  <a href="https://github.com/3sannasia" alt="Akash's GitHub Stats" style="margin: 6px;" >
+    <img height="200em" margin-left: 809px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=3sannasia&hide=cmake,css,html&langs_count=6&layout=donut&exclude_repo=Data-Science-Compensation-Classifier&theme=algolia&card_width=300" />
   </a>
 </div>
 
