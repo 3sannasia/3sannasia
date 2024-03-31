@@ -1,4 +1,4 @@
-### Hi! I'm Akash, a Computer Science student at UIUC who really enjoys working with new tech
+### Hi! I'm Akash, a curious student who really enjoys working with new tech
 #### 🔭 I’m currently working on ...
 - Mixed Reality Game for the Vision Pro
 - Soulslike 2.5D Unreal Engine 5 Game    
