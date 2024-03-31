@@ -10,7 +10,7 @@
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3sannasia&hide=cmake,css,html&langs_count=6&layout=donut&exclude_repo=Data-Science-Compensation-Classifier&theme=algolia&card_width=300" />
 </div>
 
-![Snake Dark](https://raw.githubusercontent.com/3sannasia/3sannasia/7aaa996289e1420a7a6fd7225111e2f8e5936f54/github-contribution-grid-snake-dark.svg)
+<!--![Snake Dark](https://raw.githubusercontent.com/3sannasia/3sannasia/7aaa996289e1420a7a6fd7225111e2f8e5936f54/github-contribution-grid-snake-dark.svg) -->
 
 
 <!-- ![Snake Light](https://raw.githubusercontent.com/3sannasia/3sannasia/7aaa996289e1420a7a6fd7225111e2f8e5936f54/github-contribution-grid-snake.svg) -->
