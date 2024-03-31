@@ -1,16 +1,9 @@
 ### Welcome 👋
 
-I'm a junior at the University of Urbana-Champaign studying Computer Science and Economics. 
-
-
 - 🔭 I’m currently working on ...
     - Mixed Reality Game for the Vision Pro
     - Soulslike 2.5D Unreal Engine 5 Game    
     - GPT-Powered AI Gym Inspiration MERN App
-- 💬 Ask me about ...
-    - New ideas!
-    - I'm always trying to think of cool new projects using trending new tech
-
 
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/3sannasia" alt="Akash's GitHub Stats" style="margin: 6px;">
