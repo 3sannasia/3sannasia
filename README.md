@@ -12,4 +12,4 @@
 
 ![Snake Dark](https://raw.githubusercontent.com/3sannasia/3sannasia/7aaa996289e1420a7a6fd7225111e2f8e5936f54/github-contribution-grid-snake-dark.svg)
 
-![Snake Light](https://raw.githubusercontent.com/3sannasia/3sannasia/7aaa996289e1420a7a6fd7225111e2f8e5936f54/github-contribution-grid-snake.svg)
+<!-- ![Snake Light](https://raw.githubusercontent.com/3sannasia/3sannasia/7aaa996289e1420a7a6fd7225111e2f8e5936f54/github-contribution-grid-snake.svg) -->
