@@ -11,7 +11,7 @@
 </a>
 
 
- <a href="https://github.com/3sannasia" alt="Akash's GitHub Stats" style="margin: 6px;" >
+ <a href="https://github.com/3sannasia" alt="Akash's GitHub Languages" style="margin: 6px;" >
   <img height="200em" margin-left: 809px; src="https://github-readme-stats.vercel.app/api/top-langs/?username=3sannasia&hide=cmake,css,html&langs_count=6&layout=donut&exclude_repo=Data-Science-Compensation-Classifier&theme=algolia&card_width=300" />
   </a>
  
