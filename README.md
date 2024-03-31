@@ -1,9 +1,8 @@
-### Welcome 👋
-
-- 🔭 I’m currently working on ...
-    - Mixed Reality Game for the Vision Pro
-    - Soulslike 2.5D Unreal Engine 5 Game    
-    - GPT-Powered AI Gym Inspiration MERN App
+### Hi! I'm Akash 👋
+🔭 I’m currently working on ...
+- Mixed Reality Game for the Vision Pro
+- Soulslike 2.5D Unreal Engine 5 Game    
+- GPT-Powered AI Gym Inspiration MERN App
 
 <div style="display: flex; flex-wrap: wrap;">
   <a href="https://github.com/3sannasia" alt="Akash's GitHub Stats" style="margin: 6px;">
