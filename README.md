@@ -1,4 +1,5 @@
-### 🔭 I’m currently working on ...
+### Hi 👋🏾
+#### 🔭 I’m currently working on ...
 - Spatial Computing Game for the Vision Pro
 - Soulslike 2.5D Unreal Engine 5 Game    
 - GPT-Powered Gym Inspiration MERN App
