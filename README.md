@@ -1,6 +1,7 @@
 ### Hi 👋🏾
 #### 🔭 I’m currently working on ...
-- Spatial Computing App for the Vision Pro
+- App for the non-profit Clean-Up Give-Back
+- Spatial Computing App
 
 <div style="display: flex; flex-wrap: wrap;">
     <img height="200em" src="https://github-readme-stats.vercel.app/api?username=3sannasia&show_icons=true&theme=algolia&rank_icon=github&hide=issues&card_width=300)](https://github.com/3sannasia/github-readme-stats"/>
