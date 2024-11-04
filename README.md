@@ -1,6 +1,6 @@
 ### Hi 👋🏾
 #### 🔭 I’m currently working on ...
-- App for the non-profit Clean-Up Give-Back
+- App for Non-Profit Clean-Up Give-Back
 - Spatial Computing App
 
 <div style="display: flex; flex-wrap: wrap;">
