@@ -1,4 +1,4 @@
-### Hi 👋🏾
+### Hi
 #### 🔭 I’m currently working on ...
 - Spatial Computing App for VR Systems
 
