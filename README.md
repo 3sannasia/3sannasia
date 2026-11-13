@@ -1,5 +1,6 @@
 ### Hi
 #### 🔭 I’m currently working on ...
+- Agent Evaluation Harness
 - Spatial Computing App for VR Systems
 - Autonomous overnight AI workloads with open-source LLMs
 
